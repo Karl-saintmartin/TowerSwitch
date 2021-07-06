@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="114" extheight="775" extwidth="1325" extx="-25" exty="-25" format="4.0.2" gravx="-0.0" gravy="0.0" height="725" id="10" name="Tower Top" revision="" savecount="0" tiled="1" tileh="25" tilew="25" type="standard" width="1275">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="Exterior" opacity="100" order="1" rid="151" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="7" id="108" name="Final Boss 1" order="0" sx="1.0" sy="1.0" x="923" y="278" z="0"/>
+        <actor a="0.0" aid="2" c="false" group="0" id="44" name="playerSize2 2" order="1" sx="1.0" sy="1.0" x="586" y="655" z="0"/>
+        <actor a="0.0" aid="3" c="false" group="2" id="21" name="Health Count 3" order="2" sx="1.0" sy="1.0" x="34" y="41" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="113">
+            <prop id="1" list="0" val="1"/>
+            <prop id="2" list="0" val="false"/>
+            <prop id="3" list="0" val=""/>
+        </s>
+        <s enabled="true" id="19">
+            <prop id="1" list="0" val="1"/>
+            <prop id="2" list="0" val="0.2"/>
+            <prop id="3" list="0" val="0.8"/>
+            <prop id="4" list="0" val="0.2"/>
+            <prop id="5" list="0" val="0.8"/>
+            <prop id="6" list="0" val="0"/>
+            <prop id="7" list="0" val="0"/>
+            <prop id="8" list="0" val="0.0"/>
+            <prop id="9" list="0" val="0"/>
+            <prop id="10" list="0" val="3"/>
+            <prop id="11" list="0" val="true"/>
+        </s>
+        <s enabled="true" id="55">
+            <prop id="5" list="0" val="3"/>
+        </s>
+        <s enabled="true" id="61">
+            <prop id="1" list="0" val="0.0"/>
+            <prop id="2" list="0" val="-1"/>
+            <prop id="3" list="1" val="">
+                <text order="0" value="0"/>
+                <text order="1" value="1"/>
+                <text order="2" value="2"/>
+                <text order="3" value="3"/>
+                <text order="4" value="4"/>
+                <text order="5" value="5"/>
+            </prop>
+            <prop id="5" list="0" val="345.0"/>
+            <prop id="6" list="0" val="true"/>
+            <prop id="7" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="4,25.0,75.0,0.0,75.0,0.0,0.0,25.0,0.0" x="600.0" y="400.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="675.0" y="550.0"/>
+        <p pts="24,12.0,175.0,12.0,18.0,0.0,18.0,0.0,0.0,100.0,0.0,100.0,18.0,87.0,18.0,87.0,75.0,175.0,75.0,175.0,93.0,162.0,93.0,162.0,150.0,487.0,150.0,487.0,93.0,475.0,93.0,475.0,75.0,562.0,75.0,562.0,18.0,550.0,18.0,550.0,0.0,650.0,0.0,650.0,18.0,637.0,18.0,637.0,175.0" x="288.0" y="550.0"/>
+        <p pts="8,0.0,0.0,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0" x="425.0" y="475.0"/>
+        <p pts="8,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0" x="725.0" y="475.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="500.0" y="550.0"/>
+        <p pts="4,25.0,0.0,25.0,8.0,0.0,8.0,0.0,0.0" x="600.0" y="625.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

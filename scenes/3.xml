@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="3" desc="" eventsnippetid="40" extheight="750" extwidth="1325" extx="-25" exty="-25" format="4.0.2" gravx="-0.0" gravy="50.0" height="700" id="3" name="Test Scene" revision="" savecount="0" tiled="1" tileh="25" tilew="25" type="standard" width="1275">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="3" locked="true" name="Exterior" opacity="100" order="3" rid="151" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="64,64,64" id="2" locked="false" name="Layer 2" opacity="100" order="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="1" locked="false" name="Layer 1" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="64" g="64" h="112" id="0" name="Region 0" pts="4,0.0,112.0,217.0,112.0,217.0,0.0,0.0,0.0" r="64" type="box" w="217" x="277" y="540"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="44" name="playerSize2 1" order="0" sx="1.0" sy="1.0" x="229" y="608" z="0"/>
+        <actor a="0.0" aid="5" c="true" group="8" id="32" name="platteforme 5" order="1" sx="1.0" sy="1.0" x="701" y="409" z="0">
+            <snippets>
+                <s enabled="true" id="18">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="6"/>
+                    <prop id="2" list="0" val="870"/>
+                    <prop id="3" list="0" val="600"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="false"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="0"/>
+                    <prop id="10" list="0" val="true"/>
+                    <prop id="11" list="0" val="0"/>
+                    <prop id="12" list="0" val="0"/>
+                    <prop id="13" list="0" val="true"/>
+                    <prop id="14" list="0" val="false"/>
+                    <prop id="15" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="21"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="6" c="true" group="8" id="32" name="platteforme 6" order="2" sx="1.0" sy="1.0" x="703" y="238" z="0">
+            <snippets>
+                <s enabled="true" id="18">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="6"/>
+                    <prop id="2" list="0" val="870"/>
+                    <prop id="3" list="0" val="600"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="false"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="0"/>
+                    <prop id="10" list="0" val="true"/>
+                    <prop id="11" list="0" val="0"/>
+                    <prop id="12" list="0" val="0"/>
+                    <prop id="13" list="0" val="true"/>
+                    <prop id="14" list="0" val="false"/>
+                    <prop id="15" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="21"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="7" c="false" group="7" id="143" name="insecte 7" order="0" sx="1.0" sy="1.0" x="453" y="532" z="1"/>
+        <actor a="0.0" aid="8" c="false" group="7" id="143" name="insecte 8" order="1" sx="1.0" sy="1.0" x="458" y="592" z="1"/>
+        <actor a="0.0" aid="9" c="false" group="7" id="143" name="insecte 9" order="2" sx="1.0" sy="1.0" x="509" y="568" z="1"/>
+        <actor a="0.0" aid="10" c="false" group="7" id="143" name="insecte 10" order="3" sx="1.0" sy="1.0" x="513" y="484" z="1"/>
+        <actor a="0.0" aid="11" c="false" group="7" id="143" name="insecte 11" order="4" sx="1.0" sy="1.0" x="83" y="590" z="1"/>
+        <actor a="0.0" aid="12" c="false" group="7" id="143" name="insecte 12" order="5" sx="1.0" sy="1.0" x="70" y="546" z="1"/>
+        <actor a="0.0" aid="13" c="false" group="7" id="143" name="insecte 13" order="6" sx="1.0" sy="1.0" x="60" y="468" z="1"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="100">
+            <prop id="1" list="0" val="false"/>
+            <prop id="2" list="0" val="255,255,255,255"/>
+            <prop id="3" list="0" val="2"/>
+            <prop id="4" list="0" val="0,51,51,255"/>
+            <prop id="5" list="0" val="30"/>
+            <prop id="6" list="0" val="50"/>
+            <prop id="7" list="0" val="300"/>
+            <prop id="8" list="0" val="10"/>
+            <prop id="9" list="1" val="">
+                <text order="0" value="La fin de cet etage risque d'etre bloque, une clef rose pourrait etre en mesure d'aider .."/>
+            </prop>
+            <prop id="10" list="1" val=""/>
+            <prop id="11" list="0" val="0"/>
+            <prop id="12" list="0" val="20"/>
+            <prop id="13" list="0" val="30"/>
+            <prop id="14" list="0" val="0"/>
+            <prop id="15" list="0" val="0"/>
+            <prop id="16" list="0" val="130"/>
+        </s>
+        <s enabled="true" id="47">
+            <prop id="1" list="0" val="226"/>
+            <prop id="2" list="0" val="331"/>
+            <prop id="3" list="0" val="150"/>
+            <prop id="4" list="0" val="false"/>
+            <prop id="5" list="0" val="1"/>
+            <prop id="6" list="0" val="-1"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="4,1275.0,0.0,1275.0,700.0,0.0,700.0,0.0,0.0" x="0.0" y="0.0"/>
+        <p pts="4,1225.0,625.0,1225.0,0.0,0.0,0.0,0.0,625.0" x="25.0" y="25.0"/>
+        <p pts="8,25.0,8.0,0.0,8.0,0.0,0.0,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0" x="800.0" y="325.0"/>
+        <p pts="8,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0" x="600.0" y="325.0"/>
+        <p pts="8,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,75.0,0.0" x="625.0" y="550.0"/>
+        <p pts="8,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0" x="750.0" y="600.0"/>
+        <p pts="4,0.0,0.0,175.0,0.0,175.0,25.0,0.0,25.0" x="825.0" y="175.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="775.0" y="525.0"/>
+        <p pts="4,0.0,25.0,0.0,0.0,175.0,0.0,175.0,25.0" x="475.0" y="175.0"/>
+        <p pts="8,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0" x="600.0" y="475.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

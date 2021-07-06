@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scenes>
+    <scene desc="" format="4.0.2" id="2" name="First Boss Room"/>
+    <scene desc="" format="4.0.2" id="5" name="First Floor"/>
+    <scene desc="" format="4.0.2" id="6" name="Menu"/>
+    <scene desc="" format="4.0.2" id="7" name="Second Floor"/>
+    <scene desc="" format="4.0.2" id="8" name="End Boss"/>
+    <scene desc="" format="4.0.2" id="9" name="second boss room"/>
+    <scene desc="" format="4.0.2" id="10" name="Tower Top"/>
+    <scene desc="" format="4.0.2" id="11" name="Tuto"/>
+    <scene desc="" format="4.0.2" id="12" name="Choix Fin"/>
+    <scene desc="" format="4.0.2" id="13" name="End Screen"/>
+</scenes>

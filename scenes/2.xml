@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="36" extheight="750" extwidth="1325" extx="-25" exty="-25" format="4.0.2" gravx="-0.0" gravy="0.0" height="700" id="2" name="First Boss Room" revision="" savecount="0" tiled="1" tileh="25" tilew="25" type="standard" width="1275">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="720p Back" opacity="100" order="1" rid="47" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="44" name="playerSize2 1" order="0" sx="1.0" sy="1.0" x="25" y="625" z="0"/>
+        <actor a="0.0" aid="3" c="true" group="8" id="32" name="platteforme 3" order="1" sx="1.0" sy="1.0" x="225" y="350" z="0">
+            <snippets>
+                <s enabled="true" id="18">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="6"/>
+                    <prop id="2" list="0" val="399"/>
+                    <prop id="3" list="0" val="200"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="false"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="0.0"/>
+                    <prop id="10" list="0" val="true"/>
+                    <prop id="11" list="0" val="0"/>
+                    <prop id="12" list="0" val="0"/>
+                    <prop id="13" list="0" val="true"/>
+                    <prop id="14" list="0" val="false"/>
+                    <prop id="15" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="21"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="4" c="true" group="8" id="32" name="platteforme 4" order="2" sx="1.0" sy="1.0" x="1025" y="350" z="0">
+            <snippets>
+                <s enabled="true" id="18">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="6"/>
+                    <prop id="2" list="0" val="1100"/>
+                    <prop id="3" list="0" val="899"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="false"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="0.0"/>
+                    <prop id="10" list="0" val="true"/>
+                    <prop id="11" list="0" val="0"/>
+                    <prop id="12" list="0" val="0"/>
+                    <prop id="13" list="0" val="true"/>
+                    <prop id="14" list="0" val="false"/>
+                    <prop id="15" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="21"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="5" c="true" group="7" id="36" name="First Boss Actor 5" order="3" sx="1.0" sy="1.0" x="614" y="225" z="0">
+            <snippets>
+                <s enabled="true" id="32">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="3"/>
+                    <prop id="2" list="0" val="0"/>
+                    <prop id="3" list="0" val="false"/>
+                    <prop id="4" list="0" val="false"/>
+                    <prop id="5" list="0" val="true"/>
+                    <prop id="6" list="0" val="2"/>
+                    <prop id="7" list="0" val="1"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="38">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="0.0"/>
+                    <prop id="2" list="0" val="15"/>
+                    <prop id="3" list="0" val="0.0"/>
+                    <prop id="4" list="0" val="true"/>
+                    <prop id="5" list="0" val=""/>
+                    <prop id="6" list="0" val="0.0"/>
+                    <prop id="7" list="1" val="">
+                        <number order="0" value="1037.0"/>
+                        <number order="1" value="266.0"/>
+                        <number order="2" value="658.0"/>
+                    </prop>
+                    <prop id="8" list="1" val="">
+                        <number order="0" value="445.0"/>
+                        <number order="1" value="440.0"/>
+                        <number order="2" value="347.0"/>
+                    </prop>
+                    <prop id="9" list="1" val="">
+                        <number order="0" value="47.0"/>
+                        <number order="1" value="387.0"/>
+                        <number order="2" value="1233.0"/>
+                        <number order="3" value="896.0"/>
+                    </prop>
+                    <prop id="10" list="1" val="">
+                        <number order="0" value="150.0"/>
+                        <number order="1" value="60.0"/>
+                        <number order="2" value="150.0"/>
+                        <number order="3" value="60.0"/>
+                    </prop>
+                    <prop id="11" list="0" val="0.0"/>
+                    <prop id="12" list="0" val="null"/>
+                    <prop id="13" list="0" val="null"/>
+                    <prop id="14" list="0" val="0"/>
+                    <prop id="15" list="0" val=""/>
+                    <prop id="16" list="0" val=""/>
+                    <prop id="17" list="0" val=""/>
+                </s>
+                <s enabled="true" id="28"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="6" c="false" group="2" id="21" name="Health Count 6" order="4" sx="1.0" sy="1.0" x="35" y="30" z="0"/>
+        <actor a="0.0" aid="7" c="true" group="8" id="32" name="platteforme 7" order="5" sx="1.0" sy="1.0" x="475" y="600" z="0">
+            <snippets>
+                <s enabled="true" id="18">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="6"/>
+                    <prop id="2" list="0" val="100"/>
+                    <prop id="3" list="0" val="0"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="false"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="0"/>
+                    <prop id="10" list="0" val="false"/>
+                    <prop id="11" list="0" val="600"/>
+                    <prop id="12" list="0" val="425"/>
+                    <prop id="13" list="0" val="true"/>
+                    <prop id="14" list="0" val="false"/>
+                    <prop id="15" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="21"/>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="8" c="true" group="8" id="32" name="platteforme 8" order="6" sx="1.0" sy="1.0" x="775" y="600" z="0">
+            <snippets>
+                <s enabled="true" id="18">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="6"/>
+                    <prop id="2" list="0" val="100"/>
+                    <prop id="3" list="0" val="0"/>
+                    <prop id="4" list="0" val="0.0"/>
+                    <prop id="6" list="0" val="false"/>
+                    <prop id="7" list="0" val="0.0"/>
+                    <prop id="8" list="0" val="false"/>
+                    <prop id="9" list="0" val="0"/>
+                    <prop id="10" list="0" val="false"/>
+                    <prop id="11" list="0" val="600"/>
+                    <prop id="12" list="0" val="425"/>
+                    <prop id="13" list="0" val="true"/>
+                    <prop id="14" list="0" val="false"/>
+                    <prop id="15" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="21"/>
+            </snippets>
+        </actor>
+    </actors>
+    <snippets>
+        <s enabled="true" id="19">
+            <prop id="1" list="0" val="1"/>
+            <prop id="2" list="0" val="0.2"/>
+            <prop id="3" list="0" val="0.8"/>
+            <prop id="4" list="0" val="0.2"/>
+            <prop id="5" list="0" val="0.8"/>
+            <prop id="6" list="0" val="0"/>
+            <prop id="7" list="0" val="0"/>
+            <prop id="8" list="0" val="0.0"/>
+            <prop id="9" list="0" val="0"/>
+            <prop id="10" list="0" val="6"/>
+            <prop id="11" list="0" val="true"/>
+        </s>
+        <s enabled="true" id="54">
+            <prop id="1" list="0" val="5"/>
+            <prop id="2" list="0" val="false"/>
+            <prop id="3" list="0" val="0"/>
+            <prop id="4" list="0" val="0"/>
+        </s>
+        <s enabled="true" id="55">
+            <prop id="1" list="0" val="-1"/>
+            <prop id="2" list="0" val="[25.0]"/>
+            <prop id="3" list="0" val="[625.0]"/>
+            <prop id="4" list="0" val="0.0"/>
+            <prop id="5" list="0" val="6"/>
+        </s>
+        <s enabled="true" id="136"/>
+        <s enabled="true" id="61">
+            <prop id="1" list="0" val="0.0"/>
+            <prop id="2" list="0" val="-1"/>
+            <prop id="3" list="1" val="">
+                <text order="0" value="0"/>
+                <text order="1" value="1"/>
+                <text order="2" value="2"/>
+                <text order="3" value="3"/>
+                <text order="4" value="4"/>
+                <text order="5" value="5"/>
+            </prop>
+            <prop id="4" list="0" val="40.0"/>
+            <prop id="5" list="0" val="345.0"/>
+            <prop id="6" list="0" val="true"/>
+            <prop id="7" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="8,0.0,50.0,0.0,25.0,625.0,25.0,625.0,0.0,675.0,0.0,675.0,25.0,1275.0,25.0,1275.0,50.0" x="0.0" y="650.0"/>
+        <p pts="4,0.0,25.0,0.0,0.0,75.0,0.0,75.0,25.0" x="225.0" y="500.0"/>
+        <p pts="4,0.0,25.0,0.0,0.0,75.0,0.0,75.0,25.0" x="1000.0" y="500.0"/>
+        <p pts="4,50.0,25.0,0.0,25.0,0.0,0.0,50.0,0.0" x="875.0" y="575.0"/>
+        <p pts="4,0.0,25.0,0.0,0.0,100.0,0.0,100.0,25.0" x="800.0" y="325.0"/>
+        <p pts="4,100.0,0.0,100.0,25.0,0.0,25.0,0.0,0.0" x="400.0" y="325.0"/>
+        <p pts="4,0.0,0.0,25.0,0.0,25.0,25.0,0.0,25.0" x="975.0" y="525.0"/>
+        <p pts="4,50.0,0.0,50.0,25.0,0.0,25.0,0.0,0.0" x="1125.0" y="450.0"/>
+        <p pts="4,0.0,0.0,75.0,0.0,75.0,25.0,0.0,25.0" x="700.0" y="425.0"/>
+        <p pts="4,50.0,0.0,50.0,25.0,0.0,25.0,0.0,0.0" x="725.0" y="600.0"/>
+        <p pts="4,0.0,25.0,0.0,0.0,50.0,0.0,50.0,25.0" x="75.0" y="400.0"/>
+        <p pts="4,25.0,0.0,25.0,25.0,0.0,25.0,0.0,0.0" x="300.0" y="525.0"/>
+        <p pts="4,50.0,0.0,50.0,25.0,0.0,25.0,0.0,0.0" x="525.0" y="600.0"/>
+        <p pts="4,25.0,0.0,25.0,25.0,0.0,25.0,0.0,0.0" x="350.0" y="600.0"/>
+        <p pts="4,75.0,0.0,75.0,25.0,0.0,25.0,0.0,0.0" x="525.0" y="425.0"/>
+        <p pts="4,50.0,0.0,50.0,25.0,0.0,25.0,0.0,0.0" x="375.0" y="575.0"/>
+        <p pts="4,0.0,0.0,50.0,0.0,50.0,25.0,0.0,25.0" x="125.0" y="450.0"/>
+        <p pts="4,25.0,25.0,0.0,25.0,0.0,0.0,25.0,0.0" x="1100.0" y="375.0"/>
+        <p pts="4,25.0,25.0,0.0,25.0,0.0,0.0,25.0,0.0" x="925.0" y="600.0"/>
+        <p pts="4,50.0,25.0,0.0,25.0,0.0,0.0,50.0,0.0" x="1175.0" y="400.0"/>
+        <p pts="4,25.0,0.0,25.0,25.0,0.0,25.0,0.0,0.0" x="175.0" y="375.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

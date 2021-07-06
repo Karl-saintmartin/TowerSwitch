@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="2" desc="" eventsnippetid="128" extheight="750" extwidth="1325" extx="-25" exty="-25" format="4.0.2" gravx="-0.0" gravy="0.0" height="700" id="12" name="Choix Fin" revision="" savecount="0" tiled="1" tileh="25" tilew="25" type="standard" width="1275">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="Mur" opacity="100" order="2" rid="80" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="2" locked="false" name="Layer 2" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="1" c="false" group="0" id="44" name="playerSize2 1" order="0" sx="1.0" sy="1.0" x="578" y="405" z="2"/>
+        <actor a="0.0" aid="2" c="false" group="4" id="131" name="Panneau 2" order="0" sx="1.0" sy="1.0" x="650" y="400" z="0"/>
+        <actor a="0.0" aid="3" c="true" group="4" id="85" name="Boss Door 3" order="1" sx="1.0" sy="1.0" x="286" y="366" z="0">
+            <snippets>
+                <s enabled="true" id="129">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="true"/>
+                    <prop id="2" list="0" val="false"/>
+                </s>
+                <s enabled="true" id="65"/>
+                <s enabled="false" id="69">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="false"/>
+                    <prop id="3" list="0" val="-1"/>
+                    <prop id="4" list="0" val="false"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="4" c="true" group="4" id="85" name="Boss Door 4" order="2" sx="1.0" sy="1.0" x="928" y="242" z="0">
+            <snippets>
+                <s enabled="true" id="129">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="true"/>
+                </s>
+                <s enabled="true" id="65"/>
+                <s enabled="false" id="69">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="false"/>
+                    <prop id="2" list="0" val="false"/>
+                    <prop id="3" list="0" val="-1"/>
+                    <prop id="4" list="0" val="false"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor a="0.0" aid="5" c="false" group="2" id="176" name="Exit 5" order="3" sx="1.0" sy="1.0" x="315" y="331" z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="100">
+            <prop id="1" list="0" val="false"/>
+            <prop id="2" list="0" val="255,255,255,255"/>
+            <prop id="3" list="0" val="2"/>
+            <prop id="4" list="0" val="0,0,0,255"/>
+            <prop id="5" list="0" val="30"/>
+            <prop id="6" list="0" val="50"/>
+            <prop id="7" list="0" val="300"/>
+            <prop id="8" list="0" val="10"/>
+            <prop id="9" list="1" val="">
+                <text order="0" value="Vous avez reussi a venir à bout des deux etages, les demons sont vaincus. Vous pouvez repartir dans votre epoque. Cependant, le roi risque de revenir si vous ne vous en occupez pas maintenant. La tache sera tres difficile, faites donc votre choix."/>
+            </prop>
+            <prop id="10" list="1" val=""/>
+            <prop id="11" list="0" val="0.0"/>
+            <prop id="12" list="0" val="20"/>
+            <prop id="13" list="0" val="30"/>
+            <prop id="14" list="0" val="0.0"/>
+            <prop id="15" list="0" val="0.0"/>
+            <prop id="16" list="0" val="130"/>
+        </s>
+        <s enabled="true" id="136"/>
+    </snippets>
+    <terrain>
+        <p pts="24,0.0,700.0,0.0,0.0,25.0,0.0,25.0,450.0,825.0,450.0,825.0,393.0,813.0,393.0,813.0,375.0,900.0,375.0,900.0,343.0,888.0,343.0,888.0,325.0,1063.0,325.0,1063.0,343.0,1050.0,343.0,1050.0,375.0,1138.0,375.0,1138.0,393.0,1125.0,393.0,1125.0,450.0,1250.0,450.0,1250.0,0.0,1275.0,0.0,1275.0,700.0" x="0.0" y="0.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="1" desc="" eventsnippetid="136" extheight="770" extwidth="1330" extx="-25" exty="-25" format="4.0.2" gravx="-0.0" gravy="0.0" height="720" id="14" name="Menu Copy" revision="" savecount="0" tiled="1" tileh="25" tilew="25" type="standard" width="1280">
+        
+    <layers>
+                
+        <color-bg blue="255" green="255" red="255"/>
+                
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+                
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="720p menu" opacity="100" order="0" rid="82" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+            
+    </layers>
+        
+    <joints/>
+        
+    <regions>
+                
+        <region b="64" g="64" h="109" id="0" name="Play Game" pts="4,0.0,109.0,366.0,109.0,366.0,0.0,0.0,0.0" r="64" type="box" w="366" x="460" y="424"/>
+                
+        <region b="64" g="64" h="80" id="1" name="Difficultee0" pts="4,-100.0,40.0,100.0,40.0,100.0,-40.0,-100.0,-40.0" r="64" type="box" w="200" x="166" y="561"/>
+                
+        <region b="64" g="64" h="80" id="2" name="difficultee1" pts="4,-100.0,40.0,100.0,40.0,100.0,-40.0,-100.0,-40.0" r="64" type="box" w="200" x="539" y="580"/>
+                
+        <region b="64" g="64" h="80" id="3" name="difficulte2" pts="4,-100.0,40.0,100.0,40.0,100.0,-40.0,-100.0,-40.0" r="64" type="box" w="200" x="952" y="559"/>
+            
+    </regions>
+        
+    <terrainRegions/>
+        
+    <actors/>
+        
+    <snippets>
+                
+        <s enabled="true" id="64">
+                        
+            <prop id="1" list="0" val="PLAY GAME"/>
+                        
+            <prop id="2" list="0" val="0"/>
+                    
+        </s>
+            
+    </snippets>
+        
+    <terrain/>
+        
+    <atlases members="" retainAtlases="true"/>
+    
+</scene>

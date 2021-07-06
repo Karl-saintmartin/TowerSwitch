@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene depth="4" desc="" eventsnippetid="92" extheight="1550" extwidth="3050" extx="-25" exty="-25" format="4.0.2" gravx="-0.0" gravy="0.0" height="1500" id="9" name="second boss room" revision="" savecount="0" tiled="1" tileh="25" tilew="25" type="standard" width="3000">
+    <layers>
+        <grad-bg b1="153" b2="153" g1="51" g2="102" r1="51" r2="102"/>
+        <background blendMode="normal" customScrollFactor="false" id="1" locked="true" name="Mur" opacity="100" order="4" rid="80" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="64,64,64" id="3" locked="false" name="Layer 3" opacity="100" order="3" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="100,168,234" id="0" locked="false" name="Layer 0" opacity="100" order="2" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="0,255,0" id="2" locked="false" name="Layer 2" opacity="100" order="1" scrollFactorX="1.0" scrollFactorY="1.0" visible="true"/>
+        <layer blendMode="normal" color="255,0,255" id="4" locked="false" name="Layer 4" opacity="100" order="0" scrollFactorX="1.0" scrollFactorY="1.0" visible="false"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region b="0" g="0" h="102" id="0" name="passageZone2" pts="4,0.0,102.0,100.0,102.0,100.0,0.0,0.0,0.0" r="128" type="box" w="100" x="1557" y="598"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor a="0.0" aid="2" c="false" group="0" id="44" name="playerSize2 2" order="0" sx="1.0" sy="1.0" x="1223" y="381" z="0"/>
+        <actor a="0.0" aid="4" c="false" group="3" id="141" name="Entree Insecte 4" order="1" sx="1.0" sy="1.0" x="648" y="592" z="0"/>
+        <actor a="0.0" aid="5" c="false" group="3" id="141" name="Entree Insecte 5" order="2" sx="1.0" sy="1.0" x="148" y="45" z="0"/>
+        <actor a="0.0" aid="6" c="false" group="3" id="141" name="Entree Insecte 6" order="3" sx="1.0" sy="1.0" x="61" y="683" z="0"/>
+        <actor a="0.0" aid="7" c="false" group="3" id="141" name="Entree Insecte 7" order="4" sx="1.0" sy="1.0" x="1182" y="78" z="0"/>
+        <actor a="0.0" aid="8" c="false" group="3" id="141" name="Entree Insecte 8" order="5" sx="1.0" sy="1.0" x="1187" y="661" z="0"/>
+        <actor a="0.0" aid="9" c="false" group="3" id="141" name="Entree Insecte 9" order="6" sx="1.0" sy="1.0" x="466" y="99" z="0"/>
+        <actor a="0.0" aid="10" c="false" group="3" id="141" name="Entree Insecte 10" order="7" sx="1.0" sy="1.0" x="927" y="672" z="0"/>
+        <actor a="0.0" aid="11" c="false" group="3" id="141" name="Entree Insecte 11" order="8" sx="1.0" sy="1.0" x="316" y="552" z="0"/>
+        <actor a="0.0" aid="12" c="false" group="3" id="141" name="Entree Insecte 12" order="9" sx="1.0" sy="1.0" x="782" y="29" z="0"/>
+        <actor a="0.0" aid="54" c="false" group="2" id="21" name="Health Count 54" order="10" sx="1.0" sy="1.0" x="41" y="12" z="0"/>
+        <actor a="0.0" aid="58" c="false" group="1" id="154" name="invisible wall 58" order="11" sx="1.0" sy="1.0" x="1325" y="150" z="0"/>
+        <actor a="0.0" aid="59" c="false" group="11" id="149" name="poteau 59" order="0" sx="1.0" sy="1.0" x="2122" y="675" z="3"/>
+        <actor a="0.0" aid="60" c="false" group="11" id="149" name="poteau 60" order="1" sx="1.0" sy="1.0" x="2122" y="650" z="3"/>
+        <actor a="0.0" aid="61" c="false" group="11" id="149" name="poteau 61" order="2" sx="1.0" sy="1.0" x="2122" y="625" z="3"/>
+        <actor a="0.0" aid="62" c="false" group="11" id="149" name="poteau 62" order="3" sx="1.0" sy="1.0" x="2122" y="600" z="3"/>
+        <actor a="0.0" aid="63" c="false" group="11" id="149" name="poteau 63" order="4" sx="1.0" sy="1.0" x="2122" y="575" z="3"/>
+        <actor a="0.0" aid="64" c="false" group="11" id="149" name="poteau 64" order="5" sx="1.0" sy="1.0" x="2122" y="550" z="3"/>
+        <actor a="0.0" aid="65" c="false" group="11" id="149" name="poteau 65" order="6" sx="1.0" sy="1.0" x="2122" y="525" z="3"/>
+        <actor a="0.0" aid="66" c="false" group="11" id="149" name="poteau 66" order="7" sx="1.0" sy="1.0" x="2122" y="500" z="3"/>
+        <actor a="0.0" aid="67" c="false" group="11" id="149" name="poteau 67" order="8" sx="1.0" sy="1.0" x="2122" y="475" z="3"/>
+        <actor a="0.0" aid="68" c="false" group="11" id="149" name="poteau 68" order="9" sx="1.0" sy="1.0" x="2122" y="450" z="3"/>
+        <actor a="0.0" aid="69" c="false" group="11" id="149" name="poteau 69" order="10" sx="1.0" sy="1.0" x="2122" y="425" z="3"/>
+        <actor a="0.0" aid="70" c="false" group="11" id="149" name="poteau 70" order="11" sx="1.0" sy="1.0" x="2122" y="400" z="3"/>
+        <actor a="0.0" aid="71" c="false" group="11" id="149" name="poteau 71" order="12" sx="1.0" sy="1.0" x="2122" y="375" z="3"/>
+        <actor a="0.0" aid="72" c="false" group="11" id="149" name="poteau 72" order="13" sx="1.0" sy="1.0" x="2122" y="350" z="3"/>
+        <actor a="0.0" aid="73" c="false" group="11" id="149" name="poteau 73" order="14" sx="1.0" sy="1.0" x="2122" y="325" z="3"/>
+        <actor a="0.0" aid="74" c="false" group="11" id="149" name="poteau 74" order="15" sx="1.0" sy="1.0" x="2122" y="300" z="3"/>
+        <actor a="0.0" aid="75" c="false" group="11" id="149" name="poteau 75" order="16" sx="1.0" sy="1.0" x="2122" y="275" z="3"/>
+        <actor a="0.0" aid="76" c="false" group="11" id="149" name="poteau 76" order="17" sx="1.0" sy="1.0" x="2122" y="250" z="3"/>
+        <actor a="0.0" aid="77" c="false" group="11" id="149" name="poteau 77" order="18" sx="1.0" sy="1.0" x="2122" y="225" z="3"/>
+        <actor a="0.0" aid="78" c="false" group="11" id="149" name="poteau 78" order="19" sx="1.0" sy="1.0" x="2122" y="200" z="3"/>
+        <actor a="0.0" aid="79" c="false" group="11" id="149" name="poteau 79" order="20" sx="1.0" sy="1.0" x="2122" y="175" z="3"/>
+        <actor a="0.0" aid="80" c="false" group="11" id="149" name="poteau 80" order="21" sx="1.0" sy="1.0" x="2122" y="150" z="3"/>
+        <actor a="0.0" aid="81" c="false" group="11" id="149" name="poteau 81" order="22" sx="1.0" sy="1.0" x="2122" y="125" z="3"/>
+        <actor a="0.0" aid="82" c="false" group="11" id="149" name="poteau 82" order="23" sx="1.0" sy="1.0" x="2122" y="100" z="3"/>
+        <actor a="0.0" aid="83" c="false" group="11" id="149" name="poteau 83" order="24" sx="1.0" sy="1.0" x="2122" y="75" z="3"/>
+        <actor a="0.0" aid="84" c="false" group="11" id="149" name="poteau 84" order="25" sx="1.0" sy="1.0" x="2221" y="675" z="3"/>
+        <actor a="0.0" aid="85" c="false" group="11" id="149" name="poteau 85" order="26" sx="1.0" sy="1.0" x="2221" y="650" z="3"/>
+        <actor a="0.0" aid="86" c="false" group="11" id="149" name="poteau 86" order="27" sx="1.0" sy="1.0" x="2221" y="625" z="3"/>
+        <actor a="0.0" aid="87" c="false" group="11" id="149" name="poteau 87" order="28" sx="1.0" sy="1.0" x="2221" y="600" z="3"/>
+        <actor a="0.0" aid="88" c="false" group="11" id="149" name="poteau 88" order="29" sx="1.0" sy="1.0" x="2221" y="575" z="3"/>
+        <actor a="0.0" aid="89" c="false" group="11" id="149" name="poteau 89" order="30" sx="1.0" sy="1.0" x="2221" y="550" z="3"/>
+        <actor a="0.0" aid="90" c="false" group="11" id="149" name="poteau 90" order="31" sx="1.0" sy="1.0" x="2221" y="525" z="3"/>
+        <actor a="0.0" aid="91" c="false" group="11" id="149" name="poteau 91" order="32" sx="1.0" sy="1.0" x="2221" y="500" z="3"/>
+        <actor a="0.0" aid="92" c="false" group="11" id="149" name="poteau 92" order="33" sx="1.0" sy="1.0" x="2221" y="475" z="3"/>
+        <actor a="0.0" aid="93" c="false" group="11" id="149" name="poteau 93" order="34" sx="1.0" sy="1.0" x="2221" y="450" z="3"/>
+        <actor a="0.0" aid="94" c="false" group="11" id="149" name="poteau 94" order="35" sx="1.0" sy="1.0" x="2221" y="425" z="3"/>
+        <actor a="0.0" aid="95" c="false" group="11" id="149" name="poteau 95" order="36" sx="1.0" sy="1.0" x="2221" y="400" z="3"/>
+        <actor a="0.0" aid="96" c="false" group="11" id="149" name="poteau 96" order="37" sx="1.0" sy="1.0" x="2221" y="375" z="3"/>
+        <actor a="0.0" aid="97" c="false" group="11" id="149" name="poteau 97" order="38" sx="1.0" sy="1.0" x="2221" y="350" z="3"/>
+        <actor a="0.0" aid="98" c="false" group="11" id="149" name="poteau 98" order="39" sx="1.0" sy="1.0" x="2221" y="325" z="3"/>
+        <actor a="0.0" aid="99" c="false" group="11" id="149" name="poteau 99" order="40" sx="1.0" sy="1.0" x="2221" y="300" z="3"/>
+        <actor a="0.0" aid="100" c="false" group="11" id="149" name="poteau 100" order="41" sx="1.0" sy="1.0" x="2221" y="275" z="3"/>
+        <actor a="0.0" aid="101" c="false" group="11" id="149" name="poteau 101" order="42" sx="1.0" sy="1.0" x="2221" y="250" z="3"/>
+        <actor a="0.0" aid="102" c="false" group="11" id="149" name="poteau 102" order="43" sx="1.0" sy="1.0" x="2221" y="225" z="3"/>
+        <actor a="0.0" aid="103" c="false" group="11" id="149" name="poteau 103" order="44" sx="1.0" sy="1.0" x="2221" y="200" z="3"/>
+        <actor a="0.0" aid="104" c="false" group="11" id="149" name="poteau 104" order="45" sx="1.0" sy="1.0" x="2221" y="175" z="3"/>
+        <actor a="0.0" aid="105" c="false" group="11" id="149" name="poteau 105" order="46" sx="1.0" sy="1.0" x="2221" y="150" z="3"/>
+        <actor a="0.0" aid="106" c="false" group="11" id="149" name="poteau 106" order="47" sx="1.0" sy="1.0" x="2221" y="125" z="3"/>
+        <actor a="0.0" aid="107" c="false" group="11" id="149" name="poteau 107" order="48" sx="1.0" sy="1.0" x="2221" y="100" z="3"/>
+        <actor a="0.0" aid="108" c="false" group="11" id="149" name="poteau 108" order="49" sx="1.0" sy="1.0" x="2221" y="75" z="3"/>
+        <actor a="0.0" aid="109" c="false" group="11" id="149" name="poteau 109" order="50" sx="1.0" sy="1.0" x="2023" y="675" z="3"/>
+        <actor a="0.0" aid="110" c="false" group="11" id="149" name="poteau 110" order="51" sx="1.0" sy="1.0" x="2023" y="650" z="3"/>
+        <actor a="0.0" aid="111" c="false" group="11" id="149" name="poteau 111" order="52" sx="1.0" sy="1.0" x="2023" y="625" z="3"/>
+        <actor a="0.0" aid="112" c="false" group="11" id="149" name="poteau 112" order="53" sx="1.0" sy="1.0" x="2023" y="600" z="3"/>
+        <actor a="0.0" aid="113" c="false" group="11" id="149" name="poteau 113" order="54" sx="1.0" sy="1.0" x="2023" y="575" z="3"/>
+        <actor a="0.0" aid="114" c="false" group="11" id="149" name="poteau 114" order="55" sx="1.0" sy="1.0" x="2023" y="550" z="3"/>
+        <actor a="0.0" aid="115" c="false" group="11" id="149" name="poteau 115" order="56" sx="1.0" sy="1.0" x="2023" y="525" z="3"/>
+        <actor a="0.0" aid="116" c="false" group="11" id="149" name="poteau 116" order="57" sx="1.0" sy="1.0" x="2023" y="500" z="3"/>
+        <actor a="0.0" aid="117" c="false" group="11" id="149" name="poteau 117" order="58" sx="1.0" sy="1.0" x="2023" y="475" z="3"/>
+        <actor a="0.0" aid="118" c="false" group="11" id="149" name="poteau 118" order="59" sx="1.0" sy="1.0" x="2023" y="450" z="3"/>
+        <actor a="0.0" aid="119" c="false" group="11" id="149" name="poteau 119" order="60" sx="1.0" sy="1.0" x="2023" y="425" z="3"/>
+        <actor a="0.0" aid="120" c="false" group="11" id="149" name="poteau 120" order="61" sx="1.0" sy="1.0" x="2023" y="400" z="3"/>
+        <actor a="0.0" aid="121" c="false" group="11" id="149" name="poteau 121" order="62" sx="1.0" sy="1.0" x="2023" y="375" z="3"/>
+        <actor a="0.0" aid="122" c="false" group="11" id="149" name="poteau 122" order="63" sx="1.0" sy="1.0" x="2023" y="350" z="3"/>
+        <actor a="0.0" aid="123" c="false" group="11" id="149" name="poteau 123" order="64" sx="1.0" sy="1.0" x="2023" y="325" z="3"/>
+        <actor a="0.0" aid="124" c="false" group="11" id="149" name="poteau 124" order="65" sx="1.0" sy="1.0" x="2023" y="300" z="3"/>
+        <actor a="0.0" aid="125" c="false" group="11" id="149" name="poteau 125" order="66" sx="1.0" sy="1.0" x="2023" y="275" z="3"/>
+        <actor a="0.0" aid="126" c="false" group="11" id="149" name="poteau 126" order="67" sx="1.0" sy="1.0" x="2023" y="250" z="3"/>
+        <actor a="0.0" aid="127" c="false" group="11" id="149" name="poteau 127" order="68" sx="1.0" sy="1.0" x="2023" y="225" z="3"/>
+        <actor a="0.0" aid="128" c="false" group="11" id="149" name="poteau 128" order="69" sx="1.0" sy="1.0" x="2023" y="200" z="3"/>
+        <actor a="0.0" aid="129" c="false" group="11" id="149" name="poteau 129" order="70" sx="1.0" sy="1.0" x="2023" y="175" z="3"/>
+        <actor a="0.0" aid="130" c="false" group="11" id="149" name="poteau 130" order="71" sx="1.0" sy="1.0" x="2023" y="150" z="3"/>
+        <actor a="0.0" aid="131" c="false" group="11" id="149" name="poteau 131" order="72" sx="1.0" sy="1.0" x="2023" y="125" z="3"/>
+        <actor a="0.0" aid="132" c="false" group="11" id="149" name="poteau 132" order="73" sx="1.0" sy="1.0" x="2023" y="100" z="3"/>
+        <actor a="0.0" aid="133" c="false" group="11" id="149" name="poteau 133" order="74" sx="1.0" sy="1.0" x="2023" y="75" z="3"/>
+        <actor a="0.0" aid="134" c="false" group="16" id="156" name="tunnel 134" order="116" sx="1.0" sy="1.0" x="1500" y="315" z="3"/>
+        <actor a="0.0" aid="135" c="false" group="16" id="156" name="tunnel 135" order="115" sx="1.0" sy="1.0" x="1500" y="80" z="3"/>
+        <actor a="0.0" aid="136" c="false" group="16" id="156" name="tunnel 136" order="117" sx="1.0" sy="1.0" x="2575" y="80" z="3"/>
+        <actor a="0.0" aid="137" c="false" group="16" id="156" name="tunnel 137" order="118" sx="1.0" sy="1.0" x="2575" y="315" z="3"/>
+        <actor a="0.0" aid="138" c="false" group="11" id="149" name="poteau 138" order="75" sx="1.0" sy="1.0" x="433" y="175" z="3"/>
+        <actor a="0.0" aid="139" c="false" group="11" id="149" name="poteau 139" order="76" sx="1.0" sy="1.0" x="433" y="225" z="3"/>
+        <actor a="0.0" aid="140" c="false" group="11" id="149" name="poteau 140" order="77" sx="1.0" sy="1.0" x="433" y="250" z="3"/>
+        <actor a="0.0" aid="141" c="false" group="11" id="149" name="poteau 141" order="78" sx="1.0" sy="1.0" x="433" y="275" z="3"/>
+        <actor a="0.0" aid="142" c="false" group="11" id="149" name="poteau 142" order="79" sx="1.0" sy="1.0" x="433" y="300" z="3"/>
+        <actor a="0.0" aid="143" c="false" group="11" id="149" name="poteau 143" order="80" sx="1.0" sy="1.0" x="433" y="325" z="3"/>
+        <actor a="0.0" aid="144" c="false" group="11" id="149" name="poteau 144" order="81" sx="1.0" sy="1.0" x="433" y="350" z="3"/>
+        <actor a="0.0" aid="145" c="false" group="11" id="149" name="poteau 145" order="82" sx="1.0" sy="1.0" x="433" y="375" z="3"/>
+        <actor a="0.0" aid="146" c="false" group="11" id="149" name="poteau 146" order="83" sx="1.0" sy="1.0" x="433" y="400" z="3"/>
+        <actor a="0.0" aid="147" c="false" group="11" id="149" name="poteau 147" order="84" sx="1.0" sy="1.0" x="433" y="425" z="3"/>
+        <actor a="0.0" aid="148" c="false" group="11" id="149" name="poteau 148" order="85" sx="1.0" sy="1.0" x="433" y="450" z="3"/>
+        <actor a="0.0" aid="149" c="false" group="11" id="149" name="poteau 149" order="86" sx="1.0" sy="1.0" x="433" y="475" z="3"/>
+        <actor a="0.0" aid="150" c="false" group="11" id="149" name="poteau 150" order="88" sx="1.0" sy="1.0" x="888" y="175" z="3"/>
+        <actor a="0.0" aid="151" c="false" group="11" id="149" name="poteau 151" order="87" sx="1.0" sy="1.0" x="888" y="200" z="3"/>
+        <actor a="0.0" aid="152" c="false" group="11" id="149" name="poteau 152" order="89" sx="1.0" sy="1.0" x="888" y="225" z="3"/>
+        <actor a="0.0" aid="153" c="false" group="11" id="149" name="poteau 153" order="90" sx="1.0" sy="1.0" x="888" y="250" z="3"/>
+        <actor a="0.0" aid="154" c="false" group="11" id="149" name="poteau 154" order="91" sx="1.0" sy="1.0" x="888" y="275" z="3"/>
+        <actor a="0.0" aid="155" c="false" group="11" id="149" name="poteau 155" order="92" sx="1.0" sy="1.0" x="888" y="300" z="3"/>
+        <actor a="0.0" aid="156" c="false" group="11" id="149" name="poteau 156" order="93" sx="1.0" sy="1.0" x="888" y="325" z="3"/>
+        <actor a="0.0" aid="157" c="false" group="11" id="149" name="poteau 157" order="94" sx="1.0" sy="1.0" x="888" y="350" z="3"/>
+        <actor a="0.0" aid="158" c="false" group="11" id="149" name="poteau 158" order="95" sx="1.0" sy="1.0" x="888" y="375" z="3"/>
+        <actor a="0.0" aid="159" c="false" group="11" id="149" name="poteau 159" order="96" sx="1.0" sy="1.0" x="888" y="400" z="3"/>
+        <actor a="0.0" aid="160" c="false" group="11" id="149" name="poteau 160" order="97" sx="1.0" sy="1.0" x="888" y="425" z="3"/>
+        <actor a="0.0" aid="161" c="false" group="11" id="149" name="poteau 161" order="98" sx="1.0" sy="1.0" x="888" y="450" z="3"/>
+        <actor a="0.0" aid="162" c="false" group="11" id="149" name="poteau 162" order="99" sx="1.0" sy="1.0" x="888" y="475" z="3"/>
+        <actor a="0.0" aid="163" c="false" group="11" id="149" name="poteau 163" order="100" sx="1.0" sy="1.0" x="1188" y="250" z="3"/>
+        <actor a="0.0" aid="164" c="false" group="11" id="149" name="poteau 164" order="101" sx="1.0" sy="1.0" x="1188" y="350" z="3"/>
+        <actor a="0.0" aid="165" c="false" group="11" id="149" name="poteau 165" order="102" sx="1.0" sy="1.0" x="1188" y="325" z="3"/>
+        <actor a="0.0" aid="166" c="false" group="11" id="149" name="poteau 166" order="103" sx="1.0" sy="1.0" x="1188" y="375" z="3"/>
+        <actor a="0.0" aid="167" c="false" group="11" id="149" name="poteau 167" order="104" sx="1.0" sy="1.0" x="1188" y="400" z="3"/>
+        <actor a="0.0" aid="168" c="false" group="11" id="149" name="poteau 168" order="105" sx="1.0" sy="1.0" x="1188" y="425" z="3"/>
+        <actor a="0.0" aid="169" c="false" group="11" id="149" name="poteau 169" order="106" sx="1.0" sy="1.0" x="1188" y="450" z="3"/>
+        <actor a="0.0" aid="170" c="false" group="11" id="149" name="poteau 170" order="107" sx="1.0" sy="1.0" x="1188" y="475" z="3"/>
+        <actor a="0.0" aid="171" c="false" group="11" id="149" name="poteau 171" order="108" sx="1.0" sy="1.0" x="1188" y="275" z="3"/>
+        <actor a="0.0" aid="172" c="false" group="11" id="149" name="poteau 172" order="109" sx="1.0" sy="1.0" x="1188" y="300" z="3"/>
+        <actor a="0.0" aid="173" c="false" group="16" id="156" name="tunnel 173" order="119" sx="1.0" sy="1.0" x="2575" y="550" z="3"/>
+        <actor a="0.0" aid="174" c="false" group="7" id="135" name="Second Boss Actor 174" order="12" sx="1.0" sy="1.0" x="253" y="785" z="0"/>
+        <actor a="0.0" aid="175" c="false" group="16" id="160" name="Panneau Direction 175" order="110" sx="1.0" sy="1.0" x="580" y="115" z="3"/>
+        <actor a="0.0" aid="176" c="false" group="11" id="149" name="poteau 176" order="111" sx="1.0" sy="1.0" x="1188" y="175" z="3"/>
+        <actor a="0.0" aid="177" c="false" group="11" id="149" name="poteau 177" order="112" sx="1.0" sy="1.0" x="1188" y="200" z="3"/>
+        <actor a="0.0" aid="178" c="false" group="11" id="149" name="poteau 178" order="113" sx="1.0" sy="1.0" x="1188" y="225" z="3"/>
+        <actor a="0.0" aid="179" c="false" group="11" id="149" name="poteau 179" order="114" sx="1.0" sy="1.0" x="433" y="200" z="3"/>
+        <actor a="0.0" aid="180" c="false" group="18" id="164" name="FixNulBoss2 180" order="0" sx="1.0" sy="1.0" x="1616" y="66" z="4"/>
+        <actor a="0.0" aid="181" c="false" group="4" id="25" name="Health Item 181" order="0" sx="1.0" sy="1.0" x="1346" y="653" z="2"/>
+        <actor a="0.0" aid="182" c="false" group="4" id="25" name="Health Item 182" order="1" sx="1.0" sy="1.0" x="1396" y="654" z="2"/>
+        <actor a="0.0" aid="183" c="false" group="4" id="25" name="Health Item 183" order="2" sx="1.0" sy="1.0" x="1446" y="654" z="2"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="55">
+            <prop id="5" list="0" val="54"/>
+        </s>
+        <s enabled="true" id="136"/>
+    </snippets>
+    <terrain>
+        <p pts="8,125.0,0.0,125.0,8.0,100.0,8.0,100.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0" x="525.0" y="375.0"/>
+        <p pts="4,0.0,8.0,0.0,0.0,150.0,0.0,150.0,8.0" x="700.0" y="300.0"/>
+        <p pts="79,2750.0,0.0,2750.0,750.0,0.0,750.0,0.0,500.0,1313.0,500.0,1313.0,518.0,1300.0,518.0,1300.0,525.0,1288.0,550.0,1300.0,550.0,1300.0,700.0,2575.0,700.0,2575.0,543.0,2563.0,543.0,2563.0,525.0,2288.0,525.0,2288.0,508.0,2300.0,508.0,2300.0,483.0,2275.0,483.0,2275.0,475.0,2563.0,475.0,2563.0,458.0,2575.0,458.0,2575.0,318.0,2563.0,318.0,2563.0,300.0,2288.0,300.0,2288.0,283.0,2300.0,283.0,2300.0,258.0,2250.0,258.0,2250.0,250.0,2563.0,250.0,2563.0,233.0,2575.0,233.0,2575.0,75.0,1650.0,75.0,1650.0,233.0,1663.0,233.0,1663.0,250.0,1975.0,250.0,1975.0,258.0,1925.0,258.0,1925.0,283.0,1938.0,283.0,1938.0,300.0,1663.0,300.0,1663.0,318.0,1650.0,318.0,1650.0,458.0,1663.0,458.0,1663.0,475.0,1950.0,475.0,1950.0,483.0,1925.0,483.0,1925.0,508.0,1938.0,508.0,1938.0,525.0,1700.0,525.0,1700.0,550.0,1650.0,550.0,1650.0,575.0,1600.0,575.0,1600.0,600.0,1550.0,600.0,1550.0,575.0,1500.0,575.0,1500.0,550.0,1450.0,550.0,1450.0,525.0,1400.0,525.0,1400.0,375.0,1375.0,375.0,1375.0,275.0,1350.0,275.0,1350.0,175.0,0.0,175.0,0.0,0.0" x="25.0" y="0.0"/>
+        <p pts="8,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,200.0,0.0,200.0,8.0,175.0,8.0,175.0,13.0" x="950.0" y="350.0"/>
+        <p pts="8,100.0,0.0,100.0,8.0,75.0,8.0,75.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0" x="100.0" y="375.0"/>
+        <p pts="8,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,150.0,0.0,150.0,8.0,125.0,8.0,125.0,13.0" x="725.0" y="425.0"/>
+        <p pts="4,75.0,0.0,75.0,8.0,0.0,8.0,0.0,0.0" x="300.0" y="425.0"/>
+        <p pts="8,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,150.0,0.0,150.0,8.0,125.0,8.0,125.0,13.0" x="225.0" y="300.0"/>
+        <p pts="8,0.0,0.0,25.0,0.0,25.0,250.0,50.0,250.0,50.0,258.0,25.0,258.0,25.0,325.0,0.0,325.0" x="0.0" y="175.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="1975.0" y="550.0"/>
+        <p pts="4,0.0,8.0,0.0,0.0,50.0,0.0,50.0,8.0" x="1225.0" y="425.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="2250.0" y="550.0"/>
+        <p pts="4,0.0,8.0,0.0,0.0,50.0,0.0,50.0,8.0" x="2175.0" y="475.0"/>
+        <p pts="4,50.0,8.0,0.0,8.0,0.0,0.0,50.0,0.0" x="1225.0" y="275.0"/>
+        <p pts="8,125.0,8.0,100.0,8.0,100.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,125.0,0.0" x="2075.0" y="625.0"/>
+        <p pts="4,0.0,8.0,0.0,0.0,50.0,0.0,50.0,8.0" x="2175.0" y="325.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="2050.0" y="325.0"/>
+        <p pts="8,0.0,0.0,75.0,0.0,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0" x="2100.0" y="250.0"/>
+        <p pts="4,50.0,0.0,50.0,8.0,0.0,8.0,0.0,0.0" x="2050.0" y="475.0"/>
+        <p pts="4,0.0,8.0,0.0,0.0,50.0,0.0,50.0,8.0" x="2050.0" y="175.0"/>
+        <p pts="8,75.0,8.0,50.0,8.0,50.0,13.0,25.0,13.0,25.0,8.0,0.0,8.0,0.0,0.0,75.0,0.0" x="2100.0" y="400.0"/>
+        <p pts="4,50.0,8.0,0.0,8.0,0.0,0.0,50.0,0.0" x="2175.0" y="175.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>
